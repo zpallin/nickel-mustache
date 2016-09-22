@@ -5,7 +5,7 @@ authors = ["Kevin Butler <haqkrs@gmail.com>"]
 description = "Flexible Mustache template rendering for nickel"
 keywords = ["mustache", "nickel", "templates", "web"]
 license = "MIT"
-repository = "https://github.com/Ryman/nickel-mustache"
+repository = "https://github.com/zpallin/nickel-mustache"
 documentation = "http://ryman.github.io/nickel-mustache"
 
 [dependencies]
